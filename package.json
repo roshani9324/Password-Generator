@@ -1,11 +1,5 @@
+
 {
-<<<<<<< HEAD
-  "homepage": "https://github.com/roshani9324/Password-Generator.git",
-=======
-  "homepage": "https://roshani9324.github.io/Password-Generator/"
-},
-{
->>>>>>> 5e9757edeba5e2e5671e852ea5cbec762e3fde81
   "name": "passwordgenerator",
   "private": true,
   "version": "0.0.0",

@@ -5,5 +5,4 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base:"Password-Generator",
   plugins: [react()],
-  base: '/Password-Generator/'
 })
